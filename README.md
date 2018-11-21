@@ -20,17 +20,17 @@ Time spent: **19** hours spent in total
     - I used Google Cloud to set up a VM using Ubuntu Trusty 14.04 . I cloned a git repository and installed MHN. This VM will be the Admin while the other 4 VM will be the Honeypots to attack.
     - I created 2 dionaea Honeypots, 1 snort Honeypot, and 1 conpot Honeypot.
     
-    - GIF step 1: 
-      <img src='' />
+    - GIF of all of my Honeypots: 
+      <img src='first.gif' />
       
 2. GIF demonstating all of my attacks
-    - Attack Stats: 
-      <img src='' />
-    - Attacks Report:
-      <img src='' /> 
+    - : GIF of the Attack Stats
+      <img src='second.gif' />
+    - GIF of the Attacks Report:
+      <img src='third.gif' /> 
       
-3. Sensors deployed: 
-    <img src='' />
+3. GIF of the Sensors deployed: 
+    <img src='four.gif' />
   
 ## Any unresolved questions raised by the data collected 
   > None.
