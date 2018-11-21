@@ -2,7 +2,7 @@
 
 # Project 9 - Honeypot
 
-Time spent: **19** hours spent in total
+Time spent: **22** hours spent in total
 
 > Objective: Learn about Network Security by attacking and being attacked at vulnarable networked resources. Multiple Honey Pot VM instances were created to demonstrate it. 
 
@@ -16,7 +16,7 @@ Time spent: **19** hours spent in total
   > My biggest issue was getting access to the ip web app that MHN sets up for you. I had to spend several days to find another way to do it. 
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
-1. Google Cloud and Honeypot GIF setup
+1. The setup of GoogleCloud and Honeypots.
     - I used Google Cloud to set up a VM using Ubuntu Trusty 14.04 . I cloned a git repository and installed MHN. This VM will be the Admin while the other 4 VM will be the Honeypots to attack.
     - I created 2 dionaea Honeypots, 1 snort Honeypot, and 1 conpot Honeypot.
     
